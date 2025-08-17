@@ -9,3 +9,8 @@ This is a simple To-Do application built using Html, CSS, JS. it's allows to add
 - Input validation to prevent empty tasks from being added.
 - Hover effects on buttons and input fields for better user interaction.
 - Responsive design with a centered layout and a dark theme.
+
+## Screenshot
+Below is a screenshot of the To-Do List application:
+
+![To-Do List Screenshot](./screenshot/imagez.png)
